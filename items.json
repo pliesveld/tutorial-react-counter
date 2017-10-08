@@ -1,0 +1,19 @@
+[
+   {
+      "value" : 1,
+      "itemName" : "airplane drone"
+   },
+   {
+      "value" : 3,
+      "itemName" : "pack of cards"
+   },
+   {
+      "itemName" : "books",
+      "value" : 2
+   },
+   {
+      "itemName" : "pairs of shoes",
+      "value" : 1
+   }
+]
+
